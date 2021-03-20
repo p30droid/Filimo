@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941222367348",
+    "project_id": "filimo-182d4",
+    "storage_bucket": "filimo-182d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941222367348:android:053d1f75b8a1a815a14121",
+        "android_client_info": {
+          "package_name": "com.filimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941222367348-auk45jce5l2n45qc8d9cnpvu6c7pfmk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_9Pnvvla8rtwa_KGjAuZZVHll9BKMV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941222367348-auk45jce5l2n45qc8d9cnpvu6c7pfmk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
